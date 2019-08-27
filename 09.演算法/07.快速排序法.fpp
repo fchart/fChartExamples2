@@ -1,5 +1,5 @@
-66       	 <--SHAPES
-74       	 <--LINES
+53       	 <--SHAPES
+61       	 <--LINES
 id1
 2       	 <--TYPE
 168       	 <--LEFT
@@ -32,8 +32,8 @@ STOP
 
 id9
 0       	 <--TYPE
-129       	 <--LEFT
-297       	 <--TOP
+128       	 <--LEFT
+311       	 <--TOP
 70       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -60,21 +60,6 @@ IF_LESS
 i
 LEN
 
-id11
-3       	 <--TYPE
-158       	 <--LEFT
-421       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id13
 91       	 <--TYPE
 269       	 <--LEFT
@@ -93,7 +78,7 @@ Data[i]
 id14
 0       	 <--TYPE
 292       	 <--LEFT
-449       	 <--TOP
+421       	 <--TOP
 70       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -105,21 +90,6 @@ ADD
 i
 1
 i
-id15
-3       	 <--TYPE
-321       	 <--LEFT
-420       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id18
 0       	 <--TYPE
 343       	 <--LEFT
@@ -138,7 +108,7 @@ i
 id19
 92       	 <--TYPE
 106       	 <--LEFT
-179       	 <--TOP
+205       	 <--TOP
 112       	 <--WIDTH
 50       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -152,8 +122,8 @@ i
 
 id20
 0       	 <--TYPE
-276       	 <--LEFT
-190       	 <--TOP
+270       	 <--LEFT
+214       	 <--TOP
 75       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -179,21 +149,6 @@ id22
 IF_LESS
 L
 R
-
-id30
-3       	 <--TYPE
-1294       	 <--LEFT
-664       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
 
 id35
 0       	 <--TYPE
@@ -255,21 +210,6 @@ SUBTRACT
 i
 1
 i
-id38
-3       	 <--TYPE
-1293       	 <--LEFT
-151       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id3
 0       	 <--TYPE
 395       	 <--LEFT
@@ -452,8 +392,8 @@ R
 
 id24
 92       	 <--TYPE
-822       	 <--LEFT
-229       	 <--TOP
+821       	 <--LEFT
+228       	 <--TOP
 176       	 <--WIDTH
 50       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -480,36 +420,6 @@ SUBTRACT
 R
 1
 R
-id27
-3       	 <--TYPE
-1188       	 <--LEFT
-206       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
-id28
-3       	 <--TYPE
-905       	 <--LEFT
-205       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id29
 92       	 <--TYPE
 816       	 <--LEFT
@@ -558,7 +468,7 @@ R
 id42
 3       	 <--TYPE
 902       	 <--LEFT
-418       	 <--TOP
+417       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -587,7 +497,7 @@ Data[R]
 
 id44
 0       	 <--TYPE
-1158       	 <--LEFT
+1160       	 <--LEFT
 335       	 <--TOP
 73       	 <--WIDTH
 30       	 <--HEIGHT
@@ -600,21 +510,6 @@ ADD
 L
 1
 L
-id45
-3       	 <--TYPE
-1191       	 <--LEFT
-419       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id34
 92       	 <--TYPE
 889       	 <--LEFT
@@ -648,7 +543,7 @@ Data[L]
 id46
 0       	 <--TYPE
 1195       	 <--LEFT
-538       	 <--TOP
+537       	 <--TOP
 73       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -735,51 +630,6 @@ ADD
 i
 1
 i
-id52
-3       	 <--TYPE
-411       	 <--LEFT
-486       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
-id53
-3       	 <--TYPE
-939       	 <--LEFT
-637       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
-id54
-3       	 <--TYPE
-704       	 <--LEFT
-186       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id55
 92       	 <--TYPE
 593       	 <--LEFT
@@ -809,21 +659,6 @@ id56
 DEFINITION
 temp
 beg[i]
-
-id57
-3       	 <--TYPE
-410       	 <--LEFT
-566       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
 
 id58
 0       	 <--TYPE
@@ -900,25 +735,10 @@ DEFINITION
 end[i-1]
 temp
 
-id23
-3       	 <--TYPE
-1271       	 <--LEFT
-187       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
 id8
 3       	 <--TYPE
-411       	 <--LEFT
-664       	 <--TOP
+413       	 <--LEFT
+662       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -962,23 +782,8 @@ Data[9]
 
 id65
 3       	 <--TYPE
-1272       	 <--LEFT
-637       	 <--TOP
-10       	 <--WIDTH
-10       	 <--HEIGHT
-16777215       	 <--BACKCOLOR
-0       	 <--BORDERCOLOR
-0       	 <--BORDERCOLOR
--reserved 1-
--reserved 2-
-INTERSECTION
-
-
-
-id66
-3       	 <--TYPE
-1226       	 <--LEFT
-638       	 <--TOP
+1278       	 <--LEFT
+636       	 <--TOP
 10       	 <--WIDTH
 10       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -993,224 +798,185 @@ INTERSECTION
   
 ---- LINES ---- from,to ----
 id13,id14
-reserved 1
-
-id14,id15
-reserved 1
+0
 
 id19,id20
-reserved 1
+0
 YES
 id36,id19
-reserved 1
+0
 
 id1,id37
-reserved 1
+0
 
 id20,id35
-reserved 1
+0
 
 id35,id22
-reserved 1
-
-id30,id38
-reserved 1
-
-id38,id36
-reserved 1
+0
 
 id19,id9
-reserved 1
+0
 NO
-id9,id11
-reserved 1
-
-id11,id10
-reserved 1
-
 id10,id2
-reserved 1
+0
 NO
 id10,id13
-reserved 1
+0
 YES
-id15,id11
-reserved 1
-
 id37,id3
-reserved 1
+0
 
 id3,id12
-reserved 1
+0
 
 id12,id16
-reserved 1
+0
 
 id16,id17
-reserved 1
+0
 
 id17,id33
-reserved 1
+0
 
 id33,id39
-reserved 1
+0
 
 id39,id4
-reserved 1
+0
 
 id4,id5
-reserved 1
+0
 
 id18,id6
-reserved 1
+0
 
 id6,id7
-reserved 1
+0
 
 id7,id36
-reserved 1
+0
 
 id22,id25
-reserved 1
+0
 YES
 id25,id21
-reserved 1
+0
 
 id21,id24
-reserved 1
+0
 YES
 id24,id26
-reserved 1
+0
 YES
-id26,id27
-reserved 1
-
-id27,id28
-reserved 1
-
-id28,id24
-reserved 1
-
 id29,id32
-reserved 1
+0
 YES
 id24,id41
-reserved 1
+0
 NO
 id42,id29
-reserved 1
+0
 
 id43,id44
-reserved 1
-
-id44,id45
-reserved 1
-
-id45,id42
-reserved 1
-
-id32,id45
-reserved 1
+0
 
 id29,id34
-reserved 1
+0
 NO
 id34,id40
-reserved 1
+0
 YES
 id40,id46
-reserved 1
+0
 
 id21,id47
-reserved 1
+0
 NO
 id47,id48
-reserved 1
+0
 
 id48,id49
-reserved 1
+0
 
 id49,id50
-reserved 1
+0
 
 id50,id51
-reserved 1
+0
 
-id31,id52
-reserved 1
-
-id34,id53
-reserved 1
-NO
 id51,id55
-reserved 1
+0
 
 id55,id56
-reserved 1
+0
 YES
-id55,id52
-reserved 1
-NO
-id52,id57
-reserved 1
-
 id56,id58
-reserved 1
+0
 
 id58,id59
-reserved 1
+0
 
 id59,id60
-reserved 1
+0
 
 id60,id61
-reserved 1
+0
 
 id61,id62
-reserved 1
-
-id62,id57
-reserved 1
-
-id54,id21
-reserved 1
+0
 
 id41,id43
-reserved 1
+0
 YES
 id41,id42
-reserved 1
+0
 NO
-id23,id54
-reserved 1
-
 id22,id31
-reserved 1
+0
 NO
-id8,id30
-reserved 1
-
-id57,id8
-reserved 1
-
 id5,id63
-reserved 1
+0
 
 id63,id64
-reserved 1
+0
 
 id64,id18
-reserved 1
+0
 
-id65,id23
-reserved 1
+id26,id24
+35
 
-id46,id66
-reserved 1
+id65,id21
+445
 
-id53,id66
-reserved 1
+id46,id65
+1
 
-id66,id65
-reserved 1
+id34,id65
+0
+NO
+id32,id42
+0
+
+id44,id42
+0
+
+id31,id8
+0
+
+id55,id8
+0
+NO
+id62,id8
+0
+
+id8,id36
+875
+
+id9,id10
+0
+
+id14,id10
+40
 
