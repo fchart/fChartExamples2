@@ -5,12 +5,20 @@ fChart 6.0版新版工具支援多國語言介面, 和全新的流程圖連接�
 
 - fChart6.exe: fChart標準版.
   * https://drive.google.com/file/d/1UF5BbavQzC3JZOV7xkvTvYcL5WJAsZWq/view?usp=sharing
+  * https://github.com/fchart/fChart6/blob/master/fChart6.exe
 - fChartBlockly6SE.exe: fChart+Blockly特別版, 此版是配合App Inventor 2的程式設計課程.
   * https://drive.google.com/file/d/1Lzl2AxXXyPOQiM4CwXdbQi7eumj1wkR1/view?usp=sharing
+  * https://github.com/fchart/fChart6/blob/master/fChartBlockly6SE.exe
 - fChartPython6.exe: fChart Python版.
   * https://drive.google.com/file/d/1NSlLwYs5A9sjbeDIIm8VHjDYVhqgHZLm/view?usp=sharing
+  * fChart Python Github有3個檔案:  
+     - https://github.com/fchart/fChart6/blob/master/fChartPython6.exe
+     - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.001
+     - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.002
+     
 - fChartNode6.exe: fChart Node版.
   * https://drive.google.com/file/d/1gdWFf4DBheVH8SuPrCuYaIYsNByx2t9V/view?usp=sharing
+  * https://github.com/fchart/fChart6/blob/master/fChartNode6.exe
 
 
 fChart 6.0 版可以使用[fChartSetting.exe]設定使用的介面語言, 全工具都支援繁體中文(Traditional Chinese), 簡體中文(Simple Chinese)和英文(English).
