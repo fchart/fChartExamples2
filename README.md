@@ -28,7 +28,7 @@ fChart 6.0 版支援5種連接線:直線,先水平再垂直L型線,先垂直再�
      符號位置的間隙來調整是否使用L型連接線, 太接近空間不足使用直線, 空間足夠
      使用L型線, 若此起點座標已經有其他連接線, 就自動切換成相反方向的L型線.
 
-<img src="https://github.com/fchart/fChartExamples2/blob/master/img/AutoLShapeLine.png" width=500 height=400>
+<img src="https://github.com/fchart/fChartExamples2/blob/master/img/AutoLShapeLine2.png" width=500 height=400>
 
 1. 更改L型線的方向: 在欲設定連接的2個符號各點選一下（順序沒有關係）後, 
          執行「編輯物件>切換L型線的方向」命令, 或右鍵快顯功能表的
