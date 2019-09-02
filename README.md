@@ -1,7 +1,7 @@
 # fChartExamples II 分類流程圖專案
 fChart 6.0以上版本的150個分類範例, 這些範例在6.0以上版本才能正確顯示流程圖. 6.0之前版本的分類流程圖專案範例: https://github.com/fchart/fChartExamples
 
-fChart 6.0版新版工具支援多國語言介面, 和全新的流程圖連接線,下載檔案已經改為7Zip的自解壓縮檔的.exe檔, 執行即可解壓縮, 如下所示:
+fChart 6.0版新版工具支援多國語言介面, 和全新的流程圖連接線,下載檔案已經改為7Zip的自解壓縮檔的.exe檔, 執行即可解壓縮(程式檔案是位在Google Drive和GitHub, 請任選一個超鏈結下載), 如下所示:
 
 - fChart6.exe: fChart標準版.
   * https://drive.google.com/file/d/1UF5BbavQzC3JZOV7xkvTvYcL5WJAsZWq/view?usp=sharing
@@ -11,7 +11,7 @@ fChart 6.0版新版工具支援多國語言介面, 和全新的流程圖連接�
   * https://github.com/fchart/fChart6/blob/master/fChartBlockly6SE.exe
 - fChartPython6.exe: fChart Python版.
   * https://drive.google.com/file/d/1NSlLwYs5A9sjbeDIIm8VHjDYVhqgHZLm/view?usp=sharing
-  * fChart Python Github有3個檔案:  
+  * fChart Python因為檔案超過25MB, 所以在Github有3個檔案:  
      - https://github.com/fchart/fChart6/blob/master/fChartPython6.exe
      - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.001
      - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.002
