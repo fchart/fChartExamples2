@@ -11,11 +11,7 @@ fChart 6.0版新版工具支援多國語言介面, 和全新的流程圖連接�
   * https://github.com/fchart/fChart6/blob/master/fChartBlockly6SE.exe
 - fChartPython6.exe: fChart Python版.
   * https://drive.google.com/file/d/1NSlLwYs5A9sjbeDIIm8VHjDYVhqgHZLm/view?usp=sharing
-  * fChart Python因為檔案超過25MB, 所以在Github有3個檔案:  
-     - https://github.com/fchart/fChart6/blob/master/fChartPython6.exe
-     - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.001
-     - https://github.com/fchart/fChart6/blob/master/fChartPython6.7z.002
-     
+  * https://github.com/fchart/fChart6/blob/master/fChartPython6.exe 
 - fChartNode6.exe: fChart Node版.
   * https://drive.google.com/file/d/1gdWFf4DBheVH8SuPrCuYaIYsNByx2t9V/view?usp=sharing
   * https://github.com/fchart/fChart6/blob/master/fChartNode6.exe
