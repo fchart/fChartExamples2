@@ -21,7 +21,7 @@ fChart 6.0 版支援5種連接線:直線,先水平再垂直L型線,先垂直再�
      雖然新版相容舊版的.fpp專案版, 請注意! 新版建立的.fpp檔, 在舊版開啟時, 
      不會錯誤, 但是因為只支援直線, 所以顯示的流程圖會有些不同.
    
-<img src="https://github.com/fchart/fChartExamples2/blob/master/img/fChart6.png" width=400 height=400>
+<img src="https://github.com/fchart/fChartExamples2/blob/master/img/fChart6.png" width=500 height=450>
 
 6.0 版當2個符號的位置如果是終點位在起點的右下方, L型線預設是先水平再垂直90度,
      如果是位在右上方,左下方,左上方, 預設是先垂直再水平90度的L型線, fChart會自動依據
