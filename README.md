@@ -1,5 +1,8 @@
 # fChartExamples II 分類流程圖專案
-fChart 6.0 以上版本的150個分類範例, 這些範例在6.0 以上版本才能正確顯示流程圖. 6.0 之前版本的分類流程圖專案範例: https://github.com/fchart/fChartExamples
+
+這個檔案庫分成十個目錄, 這是十個分類共約 150 個 fChart 6.0 以上版本的流程圖專案, 包含所有基礎程式設計的流程圖, 可以用來人作為訓練學生程式邏輯的題目, 或是作為程式設計的學習單, 作業或考試題目, 因為提供的是可執行的流程圖, 即程式的演算法, 所以適用各種程式語言:C/C++, C#, Python, Java, JavaScript, VB和PHP等, 當然也支援Blockly積木程式.
+
+請注意! 這些範例在6.0 以上版本才能正確顯示流程圖. 6.0 之前版本的專案範例: https://github.com/fchart/fChartExamples
 
 fChart 6.0 版新版工具支援多國語言介面, 和全新的流程圖連接線,下載檔案已經改為 7Zip 的自解壓縮檔的 .exe 檔, 執行即可解壓縮 ( 程式檔案是位在 Google Drive 和 GitHub , 請任選一個超鏈結下載 ) , 如下所示:
 
