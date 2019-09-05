@@ -1,8 +1,6 @@
 # fChartExamples II 分類流程圖專案
 fChart 6.0 以上版本的150個分類範例, 這些範例在6.0 以上版本才能正確顯示流程圖. 6.0 之前版本的分類流程圖專案範例: https://github.com/fchart/fChartExamples
 
-fChart 6 使用手冊: https://fchart.github.io/fChart6%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf
-
 fChart 6.0 版新版工具支援多國語言介面, 和全新的流程圖連接線,下載檔案已經改為 7Zip 的自解壓縮檔的 .exe 檔, 執行即可解壓縮 ( 程式檔案是位在 Google Drive 和 GitHub , 請任選一個超鏈結下載 ) , 如下所示:
 
 - fChart6.exe: fChart 標準版.
@@ -18,6 +16,7 @@ fChart 6.0 版新版工具支援多國語言介面, 和全新的流程圖連接�
   * https://drive.google.com/file/d/1gdWFf4DBheVH8SuPrCuYaIYsNByx2t9V/view?usp=sharing
   * https://github.com/fchart/fChart6/blob/master/fChartNode6.exe
 
+fChart 6 使用手冊: https://fchart.github.io/fChart6%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf
 
 fChart 6.0 版可以使用[fChartSetting.exe]設定使用的介面語言, 全工具都支援繁體中文(Traditional Chinese), 簡體中文(Simple Chinese)和英文(English).
 
